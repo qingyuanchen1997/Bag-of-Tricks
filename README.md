@@ -5,14 +5,23 @@
 ### 文件结构
 
 --project
+
         --Cat_Dog
+
                 --kaggle
+
                         --my_test
+
                         --my_train
+
                         --teacher_train （给教师模型更多的训练图片）
+
         --CODE
+
                 --checkpoints（存放模型参数）
+
                 --all .py
+
 
 ### 训练
 ```python
